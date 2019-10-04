@@ -1,6 +1,6 @@
 {
   "name": "@succinct-tools/succinct-barebones",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Succinct Barebones project is a boilerplate that sets up the bare minimum needed to get started on a new project. Includes Axios, Nodemon, Prettier and ESLint.",
   "main": "index.js",
   "scripts": {
