@@ -1,17 +1,27 @@
-# succinct-barebones
+# Succinct Barebones
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 > A very basic project setup template.
 
-The Succinct Barebones project is a boilerplate that sets up the bare minimum needed to get started on a new project. Includes Axios, Nodemon, Prettier and ESLint.
+The Succinct Barebones project is a boilerplate that sets up the bare minimum needed to get started on a new web project. Includes Webpack, Babel, Axios, Nodemon, Prettier, ESLint and [Modern CSS Reset](https://github.com/hankchizljaw/modern-css-reset).
 
 ## Table of Contents
 
+- [Install](#install)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
 
+## Install
+
+To start using Succinct Barebones, navigate to your new project folder and run:
+
+```
+npm install @succinct-tools/succinct-barebones
+```
+
+The rest is up to you!
 
 ## Maintainers
 
