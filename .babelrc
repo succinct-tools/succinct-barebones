@@ -1,0 +1,12 @@
+{
+  "env": {
+    "test": {
+      "plugins": []
+    },
+    "production": {
+      "plugins": []
+    }
+  },
+  "presets": ["@babel/env"],
+  "plugins": []
+}
